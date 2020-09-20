@@ -1,11 +1,11 @@
 # Ilshat Kurbangaliev
-***
+
 ## Contact info
-***
+
   * City: Kazan
   * Email: kurbik93@mail.ru
   * Skype: korban77777
-***
+
 ## Info about me
 
    At the moment I work as a support specialist for the Bitrix24 website. I understand that I lack knowledge in the field of building sites, correct layout and modern technologies. I worked with Oracle DB in the support department of HP Service Desk, worked in the department of geoinformation systems, created geoinformation services.
@@ -18,9 +18,9 @@
   * Bitrix24
   * C#
   * MSQL
-***
-## Code examples
 
+## Code examples
+```
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,7 +40,7 @@
 	<p style="text-align: center;">
  <span style="font-size: 14pt;"><b>Важная информация по удаленному доступу! <span style="display:block; float:right" id="remote"> <b><a >подробнее</a></b> </span> </b></span><b> </b>
 	</p>
-
+```
   ***
   ## Education
    I graduated from Kazan (Volga Region) Federal University with a degree in mathematics, systems programmer. I have certificates for Bitrix24 support.
