@@ -42,9 +42,9 @@
 	</p>
 ```
   ***
-  ## Education
+## Education
    I graduated from Kazan (Volga Region) Federal University with a degree in mathematics, systems programmer. I have certificates for Bitrix24 support.
 
   ***
-  ## English - B1
+## English - B1
   ***
