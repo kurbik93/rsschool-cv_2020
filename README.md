@@ -1,1 +1,1 @@
-https://kurbik93.github.io/rsschool-cv/cv
+https://kurbik933333.github.io/rsschool-cv/cv
